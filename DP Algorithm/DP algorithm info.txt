@@ -1,0 +1,2 @@
+dynamic programming algorithm does optimization on recursive steps
+DP get high time performance by low space performance
